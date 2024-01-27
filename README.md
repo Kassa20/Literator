@@ -6,5 +6,5 @@ some interesting stats. It goes without saying that it's not quite that simple.
 
 Working on deploying the app. 
 
-
+Current website: https://theliterator.netlify.app/
 
