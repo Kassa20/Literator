@@ -4,6 +4,7 @@ In addition, it allows for search functionality, allowing a user to search for a
 To put it simply, I used objects(dictionary, map, ...) in javascript to count uncommon words in the book (skipping 'the', 'or' ...) to display 
 some interesting stats. It goes without saying that it's not quite that simple. 
 
-Try it out: juicy-rice.surge.sh
+Try it out:
+juicy-rice.surge.sh
 
 
