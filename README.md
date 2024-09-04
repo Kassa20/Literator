@@ -5,6 +5,6 @@ To put it simply, I used objects(dictionary, map, ...) in javascript to count un
 some interesting stats. It goes without saying that it's not quite that simple. 
 
 Try it out:
-juicy-rice.surge.sh
+https://juicy-rice.surge.sh/
 
 
